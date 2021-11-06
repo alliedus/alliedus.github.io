@@ -5,6 +5,7 @@
 .content-otherpages{
     font-size:20px;
     margin:left;
+    max-width: 80%;
 }
 .menu{
     font-size:20px;
@@ -12,17 +13,14 @@
 h1{
     font-family:monospace;
     font-size:20px;
+    color:purple;
     
 }
 table{
     width:100%;
 }
-ul.no-bullets {
-    list-style-type: none; /* Remove bullets */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margins */
-  }
-  .vocab{
+
+.vocab{
     color: purple;
     font-weight: bolder;
 }
