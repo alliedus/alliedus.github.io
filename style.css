@@ -1,5 +1,5 @@
 body{
-    background-color: #ccccff;
+    background-color: #cc99ff;
 }
 .main-content{ 
    
@@ -19,7 +19,7 @@ body{
 h1{
     font-family:monospace;
     font-size:20px;
-    color:purple;
+    color:rgb(75, 75, 226);
     
 }
 table{
