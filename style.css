@@ -29,6 +29,7 @@ table{
 .vocab{
     color: purple;
     font-weight: bolder;
+    text-align: left;
 }
 .row {
     content: "";
