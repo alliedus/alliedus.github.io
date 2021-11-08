@@ -19,7 +19,7 @@ body{
 h1{
     font-family:monospace;
     font-size:20px;
-    color:#0000ffff;
+    color:white;
     
 }
 table{
@@ -27,7 +27,7 @@ table{
 }
 
 .vocab{
-    color: #0000ffff;
+    color: white;
     font-weight: bolder;
     text-align: left;
 }
