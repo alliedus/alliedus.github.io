@@ -38,3 +38,7 @@ table{
     text-align:center;
     line-height: 0.0;
   }
+.books td
+{
+    width:250px;
+}
