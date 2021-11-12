@@ -50,13 +50,4 @@ table{
     margin-top: 10px;
   }
   
-  /* Styles for reset button */
-  #reset {
-    margin-top: 20px;
-    background-color: #008cba;
-    cursor: pointer;
-    font-size: 18px;
-    padding: 8px 20px;
-    color: white;
-    border: 0;
-  }
+  
