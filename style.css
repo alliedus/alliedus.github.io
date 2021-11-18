@@ -63,7 +63,7 @@ body,
     display:none;
     
 }
-#caption1:hover.caption{
+#caption1:hover + caption{
     display:block;
     
 }
