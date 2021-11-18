@@ -62,6 +62,6 @@ body,
 .caption{
     visibility:hidden;
 }
-#caption1 hover.caption{
+#caption1:hover.caption{
     visibility:hidden;
 }
